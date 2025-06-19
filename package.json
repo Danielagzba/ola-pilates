@@ -1,0 +1,11 @@
+{
+  "name": "ola-estudio-fit",
+  "version": "1.0.0",
+  "description": "Landing page for Ola Estudio Fit - Pilates Studio",
+  "scripts": {
+    "serve": "npx http-server -p 8000"
+  },
+  "keywords": ["pilates", "fitness", "wellness"],
+  "author": "Ola Estudio Fit",
+  "license": "MIT"
+}
